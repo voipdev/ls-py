@@ -7,7 +7,7 @@ Start Date: 09/13/2024
 | Course | Progress | Start Date | Finish Date |
 |--------|----------|------------|-------------|
 | **Programming & Back-end** | | | |
-| PY100: Python Basics | 9/100, 9% | 09/13/2024 | - |
+| PY100: Python Basics | 18/100, 18% | 09/13/2024 | - |
 | PY101: Programming Foundations | 0/100, 0% | - | - |
 | PY109: Assessment | 0/2, 0% | - | - |
 | PY120: Object-Oriented Programming | 0/100, 0% | - | - |
